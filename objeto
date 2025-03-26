@@ -1,0 +1,5 @@
+let objetos = ["garfo", "faca","colher", "tesoura","agulha","cortador de tomate","furador de gelo","chinelo","copo","taça" ];
+
+for (i=0; i<=9; i++){
+  console.log (objetos[i]);
+}
